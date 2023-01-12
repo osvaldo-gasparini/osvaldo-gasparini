@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Maquina AI**
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **gaspariniosvaldo1@gmail.com**
 
