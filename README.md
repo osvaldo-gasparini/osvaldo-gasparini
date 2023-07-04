@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Osva</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 🔭 I’m currently working on **Maquina AI**
+- 🔭 I’m currently working on **MechanizeAI**
 
-- 🌱 I’m currently learning **Backend with Python**
+- 🌱 I’m currently creating new projects
 
 - 📫 How to reach me **gaspariniosvaldo1@gmail.com**
 
