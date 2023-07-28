@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Osva, from Argentina<br><br>- 🔭 I’m working as Frontend Engineer in MechanizedAI<br>- 📚 I'm currently creating a new and exciting project!<br>- ⚡ In my free time I do natation, read books of coding or personal development,</p>
+<p align="left">I'm Osva, from Argentina<br><br>- 🔭 I’m working as Frontend Engineer in MechanizedAI<br>- 📚 I'm currently creating a new and exciting project!<br>- ⚡ In my free time I do natation, read books of coding or personal development</p>
 
 ###
 
